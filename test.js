@@ -1,0 +1,1 @@
+const a = require('https://cdn.bootcdn.net/ajax/libs/ant-design-icons/4.7.0/index.umd.js')
